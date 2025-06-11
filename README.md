@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Alexander Brunswig
 - 🌱 I’m learning Android, Java and Kotlin
-- 💼 Shopfloor IT Specialist at Bundesdruckerei
+- 💼 Bundesdruckerei
 - 🥰 I derp things for [DerpFest AOSP](https://github.com/DerpFest-AOSP)
 - 💬 Ask me about anything [here](https://t.me/nurkeinneid)
 
