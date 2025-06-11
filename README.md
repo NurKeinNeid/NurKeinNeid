@@ -26,4 +26,4 @@
 * [PayPal](https://www.paypal.com/paypalme/ABrunswig)
 
 ### 🎵 Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217373ojfmzz352zmn7qn7gni&cover_image=true&theme=novatorem&bar_color=ff8ac8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=217373ojfmzz352zmn7qn7gni&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1d7acb&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
